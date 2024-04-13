@@ -23,6 +23,30 @@ For more details about the game check the source code's readme file.
 Source codes: <a href="https://github.com/ugurozdemir97/Noodle">Noodle</a>
 It is a simple chatting application that I named "Noodle" based on people's complex relationships. However, it is not a completed project. For example, in order to prevent a possible bot software from sending messages repeatedly and crashing the system, the message sending feature has a rate limiter that prevents users from sending more than three messages per second. However, this feature is not available, for example, when changing the username. The reason for this is not that I can't add it, of course, but that I don't need it in an application I wrote just to see what I can do.
 
+It has a password checker that tells you how secure your password is.
+
+![PasswordChecker](https://github.com/ugurozdemir97/myprojects/assets/64408736/12a30b88-0ec1-4d82-886d-c45c076a9811)
+
+It is responsive
+
+![Responsive](https://github.com/ugurozdemir97/myprojects/assets/64408736/c798b285-1d1c-4233-9703-19b3e57c01a5)
+
+You can crop and upload images
+
+![UploadImage](https://github.com/ugurozdemir97/myprojects/assets/64408736/7ce9d680-762a-4bdb-9339-aac0c00aaf82)
+
+There is a notification system that notifies the users when someone add them as friends. Adding friend looks like this. You can see your friends' online status and last seen dates as well. 
+
+![AddingFriends](https://github.com/ugurozdemir97/myprojects/assets/64408736/c2425625-d2b3-4b46-b088-a4407fd336c4)
+
+It has emoji and message quoting system. And you will automatically scroll to the message that you saw last when you open a chat.
+
+![Chatting](https://github.com/ugurozdemir97/myprojects/assets/64408736/cc29c59e-cfff-456c-9508-76766aeab881)
+
+And you can search for messages
+
+![Search](https://github.com/ugurozdemir97/myprojects/assets/64408736/4891cb1e-afba-40c3-b1c7-ca7e3492a501)
+
 ## Artificial intelligence application that reads your handwriting
 Source codes: <a href="https://github.com/ugurozdemir97/Hand-Written-Digit-Reader">Hand Written Digit Reader</a> 
 Using Numpy, I had written an artificial intelligence that learned to read the numbers in the MNIST dataset. I got a lot of help from the internet while doing that. Therefore, I wanted to add something original in it and integrated the artificial intelligence from that software into a GUI program. This program simply takes your drawing and converts it (in terms of image and resolution) into the data resembles the data in MNIST dataset. In this way, artificial intelligence can recognize your drawing and make predictions. Moreover, it is possible to train artificial intelligence with your drawings. This is entirely my own and an original idea that I created without any help.
