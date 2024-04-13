@@ -3,6 +3,7 @@ This is a repository where I introduce my projects that I like the most. Please 
 
 ## Qute Fighters
 Source codes: <a href="https://github.com/ugurozdemir97/QuteFighters">Qute Fighters</a>
+
 QuteFighters is a 2D fighting game that allows two players to play locally using the same keyboard. I developed this game to learn about the Qt framework and C++. I created all the animations, drawings, and sound effects myself. The name "Qute Fighters" comes from the framework I used "Qt" and that I find the characters to be "cute". The game is not complete yet. I plan to add online gameplay functionality in the future. Additionally, I intend to redesign the entire UI, which currently just consist of simple buttons. 
 
 Character selection screen looks like this. Currently there are only 2 characters but to test selection screen I've duplicated the characters.
@@ -21,6 +22,7 @@ For more details about the game check the source code's readme file.
 
 ## Noodle
 Source codes: <a href="https://github.com/ugurozdemir97/Noodle">Noodle</a>
+
 It is a simple chatting application that I named "Noodle" based on people's complex relationships. However, it is not a completed project. For example, in order to prevent a possible bot software from sending messages repeatedly and crashing the system, the message sending feature has a rate limiter that prevents users from sending more than three messages per second. However, this feature is not available, for example, when changing the username. The reason for this is not that I can't add it, of course, but that I don't need it in an application I wrote just to see what I can do.
 
 It has a password checker that tells you how secure your password is.
@@ -49,6 +51,7 @@ And you can search for messages
 
 ## Artificial intelligence application that reads your handwriting
 Source codes: <a href="https://github.com/ugurozdemir97/Hand-Written-Digit-Reader">Hand Written Digit Reader</a> 
+
 Using Numpy, I had written an artificial intelligence that learned to read the numbers in the MNIST dataset. I got a lot of help from the internet while doing that. Therefore, I wanted to add something original in it and integrated the artificial intelligence from that software into a GUI program. This program simply takes your drawing and converts it (in terms of image and resolution) into the data resembles the data in MNIST dataset. In this way, artificial intelligence can recognize your drawing and make predictions. Moreover, it is possible to train artificial intelligence with your drawings. This is entirely my own and an original idea that I created without any help.
 
 You shoul write the correct answer before sending the image for the AI to predict, it won't look at the answer before predicting your digit. This way you can teach and let the AI become better at predicting.
@@ -71,7 +74,7 @@ Source codes: <a href="https://github.com/ugurozdemir97/Keyboard-Piano">Keyboard
 
 ## Some applications I wrote with Python, Tkinter, PyQt:
 
-A snake game where you can create users in the same computer and see the highscores of each user. 
+A snake game where you can create users in the same computer and see the highscores of each user. The name comes from Python programming language. 
 
 Source codes: <a href="https://github.com/ugurozdemir97/Snake-Game">Space Python</a>
 
@@ -79,20 +82,12 @@ This is how you create and delete players. You can see players' highscores in ea
 
 ![PlayerSystem](https://github.com/ugurozdemir97/myprojects/assets/64408736/a345f2e8-86f0-44e4-89f8-a734f8c04a7a)
 
-This is how the game looks like
-
-![Game](https://github.com/ugurozdemir97/myprojects/assets/64408736/329897e4-9020-4a29-ae44-c4ec892c9813)
-
 A text editor
 Source codes: <a href="https://github.com/ugurozdemir97/Simple-Text-Editor">Simple Text Editor</a>
 
-You can change font, background color, font size, and how you want the program to wrap text
+You can change font, background color, font size, and how you want the program to wrap text. It has all the basic functions like copy, cut, paste, save, open and you can view all the fonts. 
 
 ![Texting](https://github.com/ugurozdemir97/myprojects/assets/64408736/500c614b-6bc1-40d3-8283-ac277313cfd0)
-
-It has all the basic functions like copy, cut, paste, save, open. You can view all the fonts. 
-
-![Funct](https://github.com/ugurozdemir97/myprojects/assets/64408736/a52d0507-4d91-4de7-8caf-23bf68d524f8)
 
 An application that can create strong passwords and save your passwords:
 
