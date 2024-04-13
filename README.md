@@ -86,6 +86,14 @@ This is how the game looks like
 A text editor
 Source codes: <a href="https://github.com/ugurozdemir97/Simple-Text-Editor">Simple Text Editor</a>
 
+You can change font, background color, font size, and how you want the program to wrap text
+
+![Texting](https://github.com/ugurozdemir97/myprojects/assets/64408736/500c614b-6bc1-40d3-8283-ac277313cfd0)
+
+It has all the basic functions like copy, cut, paste, save, open. You can view all the fonts. 
+
+![Functions](https://github.com/ugurozdemir97/myprojects/assets/64408736/f43ed344-bcd0-4ad5-ad7d-18a695dedef9)
+
 An application that can create strong passwords and save your passwords:
 
 Source codes: <a href="https://github.com/ugurozdemir97/Password-Manager">Password Manager</a>
