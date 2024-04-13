@@ -81,7 +81,7 @@ This is how you create and delete players. You can see players' highscores in ea
 
 This is how the game looks like
 
-![PlayerSystem](https://github.com/ugurozdemir97/myprojects/assets/64408736/a345f2e8-86f0-44e4-89f8-a734f8c04a7a)
+![Game](https://github.com/ugurozdemir97/myprojects/assets/64408736/329897e4-9020-4a29-ae44-c4ec892c9813)
 
 A text editor
 Source codes: <a href="https://github.com/ugurozdemir97/Simple-Text-Editor">Simple Text Editor</a>
