@@ -68,9 +68,13 @@ A fun app that can translate texts into different types of language games:
 
 Source codes: <a href="https://github.com/ugurozdemir97/Pig-Latin-Translator-Website">Pig Latin Translator</a>
 
+![Pig Latin](https://github.com/ugurozdemir97/Pig-Latin-Translator-Website/assets/64408736/8c838b4c-cebe-4cde-b1a6-c943ea52dab8)
+
 A virtual piano that allows us to play the piano from the keyboard:
 
 Source codes: <a href="https://github.com/ugurozdemir97/Keyboard-Piano">Keyboard Piano</a>
+
+![Piano](https://github.com/ugurozdemir97/Keyboard-Piano/assets/64408736/4b7439d3-e03f-427f-95f8-ebb762693a63)
 
 ## Some applications I wrote with Python, Tkinter, PyQt:
 
