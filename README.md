@@ -1,4 +1,4 @@
-# myprojects
+# My Favorite Projects
 This is a repository where I introduce my projects that I like the most.
 
 ## Qute Fighters
@@ -50,6 +50,9 @@ And you can search for messages
 ## Artificial intelligence application that reads your handwriting
 Source codes: <a href="https://github.com/ugurozdemir97/Hand-Written-Digit-Reader">Hand Written Digit Reader</a> 
 Using Numpy, I had written an artificial intelligence that learned to read the numbers in the MNIST dataset. I got a lot of help from the internet while doing that. Therefore, I wanted to add something original in it and integrated the artificial intelligence from that software into a GUI program. This program simply takes your drawing and converts it (in terms of image and resolution) into the data resembles the data in MNIST dataset. In this way, artificial intelligence can recognize your drawing and make predictions. Moreover, it is possible to train artificial intelligence with your drawings. This is entirely my own and an original idea that I created without any help.
+
+You shoul write the correct answer before sending the image for the AI to predict, it won't look at the answer before predicting your digit. This way you can teach and let the AI become better at predicting.
+![DigitReader](https://github.com/ugurozdemir97/myprojects/assets/64408736/bb8550e8-4669-4fa6-85c8-cd861d6c67ed)
 
 ## Apart from these, some apps I wrote with JavaScript, HTML and CSS:
 A web page that simulates gravity according to Newton's laws:
