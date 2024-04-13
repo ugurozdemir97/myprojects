@@ -56,20 +56,32 @@ You shoul write the correct answer before sending the image for the AI to predic
 ![DigitReader](https://github.com/ugurozdemir97/myprojects/assets/64408736/bb8550e8-4669-4fa6-85c8-cd861d6c67ed)
 
 ## Apart from these, some apps I wrote with JavaScript, HTML and CSS:
+
 A web page that simulates gravity according to Newton's laws:
+
 Source codes: <a href="https://github.com/ugurozdemir97/Gravity-Simulation">Gravity Simulation</a>
+
 A fun app that can translate texts into different types of language games:
+
 Source codes: <a href="https://github.com/ugurozdemir97/Pig-Latin-Translator-Website">Pig Latin Translator</a>
+
 A virtual piano that allows us to play the piano from the keyboard:
+
 Source codes: <a href="https://github.com/ugurozdemir97/Keyboard-Piano">Keyboard Piano</a>
 
 ## Some applications I wrote with Python, Tkinter, PyQt:
+
 A snake game where you can create users and follow a scoreboard
+
 Source codes: <a href="https://github.com/ugurozdemir97/Snake-Game">Space Python</a>
+
 A text editor
 Source codes: <a href="https://github.com/ugurozdemir97/Simple-Text-Editor">Simple Text Editor</a>
+
 An application that can create strong passwords and save your passwords:
+
 Source codes: <a href="https://github.com/ugurozdemir97/Password-Manager">Password Manager</a>
 
 ## You can check out my GitHub account for my other projects.
+
 <a href="https://github.com/ugurozdemir97">My Github</a>
