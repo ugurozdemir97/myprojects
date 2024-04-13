@@ -71,9 +71,17 @@ Source codes: <a href="https://github.com/ugurozdemir97/Keyboard-Piano">Keyboard
 
 ## Some applications I wrote with Python, Tkinter, PyQt:
 
-A snake game where you can create users and follow a scoreboard
+A snake game where you can create users in the same computer and see the highscores of each user. 
 
 Source codes: <a href="https://github.com/ugurozdemir97/Snake-Game">Space Python</a>
+
+This is how you create and delete players. You can see players' highscores in each difficulty and an average score. 
+
+![PlayerSystem](https://github.com/ugurozdemir97/myprojects/assets/64408736/a345f2e8-86f0-44e4-89f8-a734f8c04a7a)
+
+This is how the game looks like
+
+![PlayerSystem](https://github.com/ugurozdemir97/myprojects/assets/64408736/a345f2e8-86f0-44e4-89f8-a734f8c04a7a)
 
 A text editor
 Source codes: <a href="https://github.com/ugurozdemir97/Simple-Text-Editor">Simple Text Editor</a>
