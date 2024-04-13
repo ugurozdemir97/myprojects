@@ -92,7 +92,7 @@ You can change font, background color, font size, and how you want the program t
 
 It has all the basic functions like copy, cut, paste, save, open. You can view all the fonts. 
 
-![Functions](https://github.com/ugurozdemir97/myprojects/assets/64408736/f43ed344-bcd0-4ad5-ad7d-18a695dedef9)
+![Funct](https://github.com/ugurozdemir97/myprojects/assets/64408736/a52d0507-4d91-4de7-8caf-23bf68d524f8)
 
 An application that can create strong passwords and save your passwords:
 
