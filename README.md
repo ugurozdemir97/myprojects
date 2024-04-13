@@ -1,5 +1,5 @@
 # My Favorite Projects
-This is a repository where I introduce my projects that I like the most.
+This is a repository where I introduce my projects that I like the most. Please wait a little for the gifs to upload :)
 
 ## Qute Fighters
 Source codes: <a href="https://github.com/ugurozdemir97/QuteFighters">Qute Fighters</a>
