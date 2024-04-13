@@ -64,6 +64,8 @@ A web page that simulates gravity according to Newton's laws:
 
 Source codes: <a href="https://github.com/ugurozdemir97/Gravity-Simulation">Gravity Simulation</a>
 
+![Mass](https://github.com/ugurozdemir97/Gravity-Simulation/assets/64408736/0e256a35-a453-43fd-8663-3e78d7b4acc9)
+
 A fun app that can translate texts into different types of language games:
 
 Source codes: <a href="https://github.com/ugurozdemir97/Pig-Latin-Translator-Website">Pig Latin Translator</a>
@@ -86,16 +88,16 @@ This is how you create and delete players. You can see players' highscores in ea
 
 ![PlayerSystem](https://github.com/ugurozdemir97/myprojects/assets/64408736/a345f2e8-86f0-44e4-89f8-a734f8c04a7a)
 
-A text editor
+A text editor where you can change font, background color, font size, and how you want the program to wrap text. It has all the basic functions like copy, cut, paste, save, open and you can view all the fonts. 
 Source codes: <a href="https://github.com/ugurozdemir97/Simple-Text-Editor">Simple Text Editor</a>
-
-You can change font, background color, font size, and how you want the program to wrap text. It has all the basic functions like copy, cut, paste, save, open and you can view all the fonts. 
 
 ![Texting](https://github.com/ugurozdemir97/myprojects/assets/64408736/500c614b-6bc1-40d3-8283-ac277313cfd0)
 
-An application that can create strong passwords and save your passwords:
+An application that can create strong passwords and save your passwords. You can also search for a password from your passwords:
 
 Source codes: <a href="https://github.com/ugurozdemir97/Password-Manager">Password Manager</a>
+
+![AddPassword](https://github.com/ugurozdemir97/Password-Manager/assets/64408736/bed3e877-ddb1-4389-b41c-b39af7eae071)
 
 ## You can check out my GitHub account for my other projects.
 
