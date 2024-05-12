@@ -2,21 +2,17 @@
 This is a repository where I introduce my projects that I like the most. Please wait a little for the gifs to upload :)
 
 ## Qute Fighters
-Source codes: <a href="https://github.com/ugurozdemir97/QuteFighters">Qute Fighters</a>
+Source codes: <a href="https://github.com/ugurozdemir97/QuteFighters-v0.2">Qute Fighters</a>
 
-QuteFighters is a 2D fighting game that allows two players to play locally using the same keyboard. I developed this game to learn about the Qt framework and C++. I created all the animations, drawings, and sound effects myself. The name "Qute Fighters" comes from the framework I used "Qt" and that I find the characters to be "cute". The game is not complete yet. I plan to add online gameplay functionality in the future. Additionally, I intend to redesign the entire UI, which currently just consist of simple buttons. 
-
-Character selection screen looks like this. Currently there are only 2 characters but to test selection screen I've duplicated the characters.
-
-![Selection](https://github.com/ugurozdemir97/myprojects/assets/64408736/a40ddeb9-dc5c-4a9b-896d-9b0c846b2367)
+QuteFighters is a 2D fighting game that allows two players to play locally or online. I developed this game to learn about the Qt framework and C++. I created all the animations, drawings, and sound effects myself. The name "Qute Fighters" comes from the framework I used "Qt" and that I find the characters to be "cute". The game is not complete yet. The online gameplay has synchronization issues that I need to address by adding a client prediction and roll back mechanism but local gameplay has no issues.
 
 I created a parallax effect using some math and trial errors that will make the map looks 3D when the characters move.
 
-![Map](https://github.com/ugurozdemir97/myprojects/assets/64408736/2aea4587-212c-4c34-b077-9f06ced36af8)
+![Map](https://github.com/ugurozdemir97/QuteFighters-v0.2/assets/64408736/56c1f941-ad58-4e0e-a073-53367405d526)
 
 This is all the moves a character has.
 
-![Attacks](https://github.com/ugurozdemir97/QuteFighters/assets/64408736/fbe57f13-ab4a-4fd1-9461-e8f5990f19c5)
+![Moves](https://github.com/ugurozdemir97/QuteFighters-v0.2/assets/64408736/23b76571-8500-4c7a-b13e-e60708da10b3)
 
 For more details about the game check the source code's readme file.
 
