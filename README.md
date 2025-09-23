@@ -54,6 +54,19 @@ You shoul write the correct answer before sending the image for the AI to predic
 
 ![DigitReader](https://github.com/ugurozdemir97/myprojects/assets/64408736/bb8550e8-4669-4fa6-85c8-cd861d6c67ed)
 
+## A simple project with React.js and Nest.js where you can do basic CRUD operations:
+Source codes: <a href="https://github.com/ugurozdemir97/Assignment">Assignment</a> 
+
+I built this project as part of a job assignment using TypeScript and React.js for the frontend, and Nest.js for the backend. It’s a very basic app so I didn’t want to overcomplicate things or take it too seriously. There iss no database, all the data is hardcoded in the service files in the backend. The login system is essentially fake. I stored the login credentials in a variable instead of using cookies or sessions. Passwords are kept as raw, no hashing algorithms were used. You could add these features to turn the project into a fully functional app.
+
+Basically a user can view the posts and users but in order to create a post, you need to log in. Once logged in you can create, edit, and delete your own posts.
+
+![Assignment1](https://github.com/user-attachments/assets/0410436a-3ad6-4bc3-874e-62139689bfe5)
+
+If you log in as an admin, you can edit or delete all posts and users.
+
+![Assignment2](https://github.com/user-attachments/assets/31cc7a1c-0ed8-4990-9f13-d7f8ca7c7471)
+
 ## Apart from these, some apps I wrote with JavaScript, HTML and CSS:
 
 A web page that simulates gravity according to Newton's laws:
