@@ -1,6 +1,17 @@
 # My Favorite Projects
 This is a repository where I introduce my projects that I like the most. Please wait a little for the gifs to upload :)
 
+## Competitive Sudoku
+My friend Ümit Yasin Çoban and I have developed and published a mobile app called Competitive Sudoku, now available on both iOS and Android.
+
+We created it for people who love mental challenges and have a competitive spirit. You can solve puzzles across five difficulty levels, track your performance, use five different assists, and climb the leaderboards by competing with other players in competitive mode, where hints and assists are disabled. You can achieve one of nine different ranks, based on a rating system that compares your solves with other players.
+
+We built this project from the ground up with a focus on clean design, smooth gameplay, and meaningful competition.
+If you're a Sudoku enthusiast, enjoy logic puzzles, or are just curious, we'd love for you to give it a try!
+Download Links:
+<a href="https://play.google.com/store/apps/details?id=com.umitcoban.competetivesudoku">Google Play</a>
+<a href="https://apps.apple.com/us/app/competitive-sudoku/id6753656727">Apple Store</a>
+
 ## Qute Fighters
 Source codes: <a href="https://github.com/ugurozdemir97/QuteFighters-v0.2">Qute Fighters</a>
 
