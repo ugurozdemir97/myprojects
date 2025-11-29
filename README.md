@@ -8,8 +8,13 @@ We created it for people who love mental challenges and have a competitive spiri
 
 We built this project from the ground up with a focus on clean design, smooth gameplay, and meaningful competition.
 If you're a Sudoku enthusiast, enjoy logic puzzles, or are just curious, we'd love for you to give it a try!
+
+![Image](https://github.com/user-attachments/assets/6d005e7a-5ecb-4c65-9753-01d43dd3c9af)
+
 Download Links:
+
 <a href="https://play.google.com/store/apps/details?id=com.umitcoban.competetivesudoku">Google Play</a>
+
 <a href="https://apps.apple.com/us/app/competitive-sudoku/id6753656727">Apple Store</a>
 
 ## Qute Fighters
